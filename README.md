@@ -1,2 +1,2 @@
 # image_auto
-图床
+image hosting web site
